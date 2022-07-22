@@ -171,22 +171,10 @@ left: 0;
     padding: 4.5rem 0;
 }
 .blog-content{
-    margin: 2rem 0;
-}
-.blog-img{
-    position: relative;
-}
-.blog-img span{
-    position: absolute;
-    bottom: 10px;
-    right: 10px;
-    background: var(--exDark);
-color: #fff;
-    font-size: 1.4rem;
-    padding: 0.3rem 0.6rem;
+    margin: 1rem 0;
+    margin-left: 2rem;
 }
 .blog-text{
-    margin: 2.2rem 0;
     padding: 0 1rem;
 }
 .blog-text span{
